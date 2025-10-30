@@ -1,3 +1,4 @@
 test f1 file
 test f2 file
 test f3 file
+test f4 file
